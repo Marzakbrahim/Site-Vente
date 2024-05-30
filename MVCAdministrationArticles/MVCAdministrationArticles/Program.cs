@@ -1,4 +1,8 @@
+﻿using Microsoft.EntityFrameworkCore;
+using MVCAdministrationArticles.Data;
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddDbContext<MVCAdministrationArticlesContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("MVCAdministrationArticlesContext") ?? throw new InvalidOperationException("Connection string 'MVCAdministrationArticlesContext' not found.")));
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
@@ -22,6 +26,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Articles}/{action=Index}/{id?}");
 
 app.Run();

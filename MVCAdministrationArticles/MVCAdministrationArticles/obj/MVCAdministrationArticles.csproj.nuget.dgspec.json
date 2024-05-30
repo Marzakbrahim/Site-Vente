@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCAdministrationArticles\\MVCAdministrationArticles\\MVCAdministrationArticles.csproj": {}
+    "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\MVCAdministrationArticles.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCAdministrationArticles\\MVCAdministrationArticles\\MVCAdministrationArticles.csproj": {
+    "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\MVCAdministrationArticles.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCAdministrationArticles\\MVCAdministrationArticles\\MVCAdministrationArticles.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\MVCAdministrationArticles.csproj",
         "projectName": "MVCAdministrationArticles",
-        "projectPath": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCAdministrationArticles\\MVCAdministrationArticles\\MVCAdministrationArticles.csproj",
+        "projectPath": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\MVCAdministrationArticles.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCAdministrationArticles\\MVCAdministrationArticles\\obj\\",
+        "outputPath": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -44,6 +44,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
