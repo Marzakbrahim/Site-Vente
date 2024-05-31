@@ -3,32 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\views\\articles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\views\\articles\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\views\\articles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\views\\articles\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\views\\articles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\views\\articles\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\views\\articles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\views\\articles\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\views\\articles\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,26 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\data\\mvcadministrationarticlescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\data\\mvcadministrationarticlescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\controllers\\articlescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\migrations\\20240530124219_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\migrations\\20240530124219_first.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\mvcadministrationarticles\\mvcadministrationarticles\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{3397B294-DED0-4980-8798-DCD559E609AC}|MVCAdministrationArticles\\MVCAdministrationArticles.csproj|solutionrelative:mvcadministrationarticles\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -74,184 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Details.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Details.cshtml",
-              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Views\\Articles\\Details.cshtml",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Details.cshtml",
-              "RelativeToolTip": "MVCAdministrationArticles\\Views\\Articles\\Details.cshtml",
-              "ViewState": "AQIAAA0AAAAAMzMzMzMLwBcAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T13:06:05.822Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Delete.cshtml",
-              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Views\\Articles\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Delete.cshtml",
-              "RelativeToolTip": "MVCAdministrationArticles\\Views\\Articles\\Delete.cshtml",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T13:05:39.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Create.cshtml",
-              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Views\\Articles\\Create.cshtml",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Create.cshtml",
-              "RelativeToolTip": "MVCAdministrationArticles\\Views\\Articles\\Create.cshtml",
-              "ViewState": "AQIAAAwAAABgZmZmZmYkwBYAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T13:04:53Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Program.cs",
-              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Program.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Program.cs",
-              "RelativeToolTip": "MVCAdministrationArticles\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAAgwBQAAAAVAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:56:15.813Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "MVCAdministrationArticles\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:49:40.109Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Views\\Articles\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Index.cshtml",
-              "RelativeToolTip": "MVCAdministrationArticles\\Views\\Articles\\Index.cshtml",
-              "ViewState": "AQIAABoAAAAAAAAAAAAYwC8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T12:45:57.941Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Edit.cshtml",
-              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Views\\Articles\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Edit.cshtml",
-              "RelativeToolTip": "MVCAdministrationArticles\\Views\\Articles\\Edit.cshtml",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T13:06:34.45Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "MVCAdministrationArticles\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAEAAAAAAAAAAAAYwBYAAABeAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T12:58:04.711Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "MVCAdministrationArticlesContext.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Data\\MVCAdministrationArticlesContext.cs",
-              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Data\\MVCAdministrationArticlesContext.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Data\\MVCAdministrationArticlesContext.cs",
-              "RelativeToolTip": "MVCAdministrationArticles\\Data\\MVCAdministrationArticlesContext.cs",
-              "ViewState": "AQIAAAIAAAAwMzMzMzMbwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:33:35.878Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ArticlesController.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Controllers\\ArticlesController.cs",
-              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Controllers\\ArticlesController.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Controllers\\ArticlesController.cs",
-              "RelativeToolTip": "MVCAdministrationArticles\\Controllers\\ArticlesController.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwBgAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:30:19.605Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20240530124219_first.cs",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Migrations\\20240530124219_first.cs",
-              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Migrations\\20240530124219_first.cs",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Migrations\\20240530124219_first.cs",
-              "RelativeToolTip": "MVCAdministrationArticles\\Migrations\\20240530124219_first.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:42:19.62Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "Article.cs",
               "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Models\\Article.cs",
               "RelativeDocumentMoniker": "MVCAdministrationArticles\\Models\\Article.cs",
               "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Models\\Article.cs",
               "RelativeToolTip": "MVCAdministrationArticles\\Models\\Article.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAQwAcAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-30T12:09:21.841Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\appsettings.json",
-              "RelativeDocumentMoniker": "MVCAdministrationArticles\\appsettings.json",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\appsettings.json",
-              "RelativeToolTip": "MVCAdministrationArticles\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABEAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-30T12:39:53.573Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "MVCAdministrationArticles\\Views\\Home\\Index.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:55:54.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Create.cshtml",
+              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Views\\Articles\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Create.cshtml",
+              "RelativeToolTip": "MVCAdministrationArticles\\Views\\Articles\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-05-30T12:44:52.292Z",
+              "WhenOpened": "2024-05-30T23:32:40.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MVCAdministrationArticlesContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Data\\MVCAdministrationArticlesContext.cs",
+              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Data\\MVCAdministrationArticlesContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Data\\MVCAdministrationArticlesContext.cs",
+              "RelativeToolTip": "MVCAdministrationArticles\\Data\\MVCAdministrationArticlesContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:31:12.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Views\\Articles\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Views\\Articles\\Index.cshtml",
+              "RelativeToolTip": "MVCAdministrationArticles\\Views\\Articles\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-30T23:21:33.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticlesController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Controllers\\ArticlesController.cs",
+              "RelativeDocumentMoniker": "MVCAdministrationArticles\\Controllers\\ArticlesController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\MVCAdministrationArticles\\MVCAdministrationArticles\\Controllers\\ArticlesController.cs",
+              "RelativeToolTip": "MVCAdministrationArticles\\Controllers\\ArticlesController.cs",
+              "ViewState": "AQIAAEcAAACAZ2ZmZmYewC8AAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T23:21:13.03Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\vente\\vente\\controllers\\panierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|solutionrelative:vente\\controllers\\panierscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\vente\\vente\\views\\paniers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|solutionrelative:vente\\views\\paniers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\vente\\vente\\models\\panier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|solutionrelative:vente\\models\\panier.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\vente\\vente\\models\\historique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|solutionrelative:vente\\models\\historique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\vente\\vente\\controllers\\panierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|solutionrelative:vente\\controllers\\panierviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\vente\\vente\\views\\paniers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|solutionrelative:vente\\views\\paniers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\vente\\vente\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|solutionrelative:vente\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\vente\\vente\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|solutionrelative:vente\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\vente\\vente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|solutionrelative:vente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\site-vente\\vente\\vente\\data\\ventecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{170663A1-B536-4690-AA63-35B2717A41AE}|Vente\\Vente.csproj|solutionrelative:vente\\data\\ventecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PanierViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Controllers\\PanierViewModel.cs",
+              "RelativeDocumentMoniker": "Vente\\Controllers\\PanierViewModel.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Controllers\\PanierViewModel.cs",
+              "RelativeToolTip": "Vente\\Controllers\\PanierViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T09:13:27.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Views\\Paniers\\Create.cshtml",
+              "RelativeDocumentMoniker": "Vente\\Views\\Paniers\\Create.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Views\\Paniers\\Create.cshtml",
+              "RelativeToolTip": "Vente\\Views\\Paniers\\Create.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAYwCgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T08:50:13.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Views\\Paniers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Vente\\Views\\Paniers\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Views\\Paniers\\Index.cshtml",
+              "RelativeToolTip": "Vente\\Views\\Paniers\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T07:57:56.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Panier.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Models\\Panier.cs",
+              "RelativeDocumentMoniker": "Vente\\Models\\Panier.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Models\\Panier.cs",
+              "RelativeToolTip": "Vente\\Models\\Panier.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:57:40.306Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "Vente\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Models\\Article.cs",
+              "RelativeToolTip": "Vente\\Models\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:57:24.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Historique.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Models\\Historique.cs",
+              "RelativeDocumentMoniker": "Vente\\Models\\Historique.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Models\\Historique.cs",
+              "RelativeToolTip": "Vente\\Models\\Historique.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:57:12.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PaniersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Controllers\\PaniersController.cs",
+              "RelativeDocumentMoniker": "Vente\\Controllers\\PaniersController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Controllers\\PaniersController.cs",
+              "RelativeToolTip": "Vente\\Controllers\\PaniersController.cs",
+              "ViewState": "AQIAACQAAADgZWZmZmYiwCwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T07:14:40.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Vente\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Vente\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-31T09:32:37.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "VenteContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Data\\VenteContext.cs",
+              "RelativeDocumentMoniker": "Vente\\Data\\VenteContext.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Data\\VenteContext.cs",
+              "RelativeToolTip": "Vente\\Data\\VenteContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:28:39.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Program.cs",
+              "RelativeDocumentMoniker": "Vente\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\Site-Vente\\Vente\\Vente\\Program.cs",
+              "RelativeToolTip": "Vente\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T14:16:44.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
