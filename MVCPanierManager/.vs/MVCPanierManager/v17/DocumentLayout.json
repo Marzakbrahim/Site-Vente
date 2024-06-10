@@ -1,0 +1,191 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\mvcpaniermanager\\mvcpaniermanager\\services\\articleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|solutionrelative:mvcpaniermanager\\services\\articleservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\mvcpaniermanager\\mvcpaniermanager\\services\\paniersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|solutionrelative:mvcpaniermanager\\services\\paniersservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\mvcpaniermanager\\mvcpaniermanager\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|solutionrelative:mvcpaniermanager\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\mvcpaniermanager\\mvcpaniermanager\\views\\panier\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|solutionrelative:mvcpaniermanager\\views\\panier\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\mvcpaniermanager\\mvcpaniermanager\\controllers\\paniercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|solutionrelative:mvcpaniermanager\\controllers\\paniercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\mvcpaniermanager\\mvcpaniermanager\\views\\panier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|solutionrelative:mvcpaniermanager\\views\\panier\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\mvcpaniermanager\\mvcpaniermanager\\views\\article\\ajout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|solutionrelative:mvcpaniermanager\\views\\article\\ajout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\mvcpaniermanager\\mvcpaniermanager\\views\\article\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|solutionrelative:mvcpaniermanager\\views\\article\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\mvcpaniermanager\\mvcpaniermanager\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|solutionrelative:mvcpaniermanager\\models\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|c:\\users\\hp\\onedrive\\bureau\\c#\\mvcpaniermanager\\mvcpaniermanager\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BAF98D2B-FDE0-4F05-844A-05DC76B93904}|MVCPanierManager\\MVCPanierManager.csproj|solutionrelative:mvcpaniermanager\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Views\\Panier\\Details.cshtml",
+              "RelativeDocumentMoniker": "MVCPanierManager\\Views\\Panier\\Details.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Views\\Panier\\Details.cshtml",
+              "RelativeToolTip": "MVCPanierManager\\Views\\Panier\\Details.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAC0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:02:50.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Views\\Panier\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPanierManager\\Views\\Panier\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Views\\Panier\\Index.cshtml",
+              "RelativeToolTip": "MVCPanierManager\\Views\\Panier\\Index.cshtml",
+              "ViewState": "AQIAAA8AAACAZmZmZmYkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T09:01:14.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PanierController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Controllers\\PanierController.cs",
+              "RelativeDocumentMoniker": "MVCPanierManager\\Controllers\\PanierController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Controllers\\PanierController.cs",
+              "RelativeToolTip": "MVCPanierManager\\Controllers\\PanierController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAA4wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-10T07:27:37.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArticleServices.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Services\\ArticleServices.cs",
+              "RelativeDocumentMoniker": "MVCPanierManager\\Services\\ArticleServices.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Services\\ArticleServices.cs",
+              "RelativeToolTip": "MVCPanierManager\\Services\\ArticleServices.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAmwDAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T21:55:07.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PaniersServices.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Services\\PaniersServices.cs",
+              "RelativeDocumentMoniker": "MVCPanierManager\\Services\\PaniersServices.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Services\\PaniersServices.cs",
+              "RelativeToolTip": "MVCPanierManager\\Services\\PaniersServices.cs",
+              "ViewState": "AQIAACoAAACAmZmZmZkwwA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T21:52:04.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Views\\Article\\Add.cshtml",
+              "RelativeDocumentMoniker": "MVCPanierManager\\Views\\Article\\Add.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Views\\Article\\Add.cshtml",
+              "RelativeToolTip": "MVCPanierManager\\Views\\Article\\Add.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T21:39:10.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "MVCPanierManager\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "MVCPanierManager\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAABAvT4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T21:38:07.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Ajout.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Views\\Article\\Ajout.cshtml",
+              "RelativeDocumentMoniker": "MVCPanierManager\\Views\\Article\\Ajout.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Views\\Article\\Ajout.cshtml",
+              "RelativeToolTip": "MVCPanierManager\\Views\\Article\\Ajout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T22:38:18.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Models\\Article.cs",
+              "RelativeDocumentMoniker": "MVCPanierManager\\Models\\Article.cs",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Models\\Article.cs",
+              "RelativeToolTip": "MVCPanierManager\\Models\\Article.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T22:08:36.916Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "MVCPanierManager\\Views\\Article\\Index.cshtml",
+              "ToolTip": "C:\\Users\\HP\\OneDrive\\Bureau\\c#\\MVCPanierManager\\MVCPanierManager\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "MVCPanierManager\\Views\\Article\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T21:36:10.837Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

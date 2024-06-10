@@ -1,0 +1,35 @@
+﻿@model List<Panier>
+
+<h2> Ajouter un Article : </h2>
+
+<form asp-controller="Article" asp-action="AddPost">
+    <div>
+        <p>Nom :</p>
+        <input type="text" name="Nom" />
+    </div>
+    <div>
+        <br />
+        <p>Prix :</p>
+        <input type="text" name="Prix" />
+    </div>
+    <div>
+        <br />
+        <p>Quantité disponible :</p>
+        <input type="text" name="QuantiteDispo" />
+    </div>
+    <div>
+        <br />
+        <label>Panier</label>
+        <select name="PanierId">
+            @foreach (var panier in Model)
+            {
+                <option value="@panier.Id">@panier.Name</option>
+            }
+        </select>
+    </div>
+    <div>
+        <br />
+        <button type="submit">  Ajouter  </button>
+    </div>
+
+</form>

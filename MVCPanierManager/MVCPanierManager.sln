@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCPanierManager", "MVCPanierManager\MVCPanierManager.csproj", "{BAF98D2B-FDE0-4F05-844A-05DC76B93904}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BAF98D2B-FDE0-4F05-844A-05DC76B93904}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BAF98D2B-FDE0-4F05-844A-05DC76B93904}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BAF98D2B-FDE0-4F05-844A-05DC76B93904}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BAF98D2B-FDE0-4F05-844A-05DC76B93904}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2BD8F9A9-9E46-45D3-BAA9-55DD311081C6}
+	EndGlobalSection
+EndGlobal

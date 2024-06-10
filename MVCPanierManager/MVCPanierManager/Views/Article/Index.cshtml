@@ -1,0 +1,60 @@
+﻿@model List<Article>
+<h1 class="centered-heading">
+    Marché pour tout le monde.
+</h1>
+<h2>
+    Articles
+</h2>
+<div>
+    <a asp-controller="Article" asp-action="Add">
+        Ajouter un article
+    </a>
+</div>
+<div>
+    La liste des Articles disponibles dans le site :
+</div>
+<div>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Nom
+                </th>
+                <th>
+                    Prix
+                </th>
+                <th>
+                    La quantité disponible
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model)
+            {
+                <tr>
+                    <td>
+                        <a asp-controller="Article" asp-action="Details" asp-route-IdArticle="@item.Id" > 
+                            @item.Nom 
+                        </a>
+                    </td>
+                    <td>
+                        @item.Prix
+                    </td>
+                    <td>
+                        @item.QuantiteDispo
+                    </td>
+                    <td>
+                        <a asp-controller="Article" asp-action="Edit" asp-route-IdArticle="@item.Id">
+                            <img src="~/img/Edit_icon.svg" alt="EditIcon" width="20" />
+                        </a>
+                    </td>
+                    <td>
+                        <a asp-controller="Article" asp-action="Delete" asp-route-IdArticle="@item.Id">
+                            <img src="~/img/deleteIMAGE.png" alt="DeleteIcon" width="20" />
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

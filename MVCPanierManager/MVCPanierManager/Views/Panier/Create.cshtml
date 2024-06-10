@@ -1,0 +1,60 @@
+﻿@* @model List<Article> *@
+<h1 class="centered-heading">
+    Marché pour tous.
+</h1>
+
+<div>
+     <h2> Créer un Panier </h2> 
+</div>
+
+<div>
+    <form method="post" asp-controller="Panier" asp-action="CreatePost">
+        <label> Le nom de Panier : </label>
+        <input name="NomPanier" />
+        <button type="submit" > Valider </button>
+        @* formaction="/Paniers/CreatePost" *@
+    </form>
+</div>
+
+@* <div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Nom de l'article
+                </th>
+                <th>
+                    Prix
+                </th>
+                <th>
+                    Quantité disponible
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+            <tr>
+                <td>
+                    @item.Nom
+                </td>
+                <td>
+                    @item.Prix
+                </td>
+                <td>
+                    @item.QuantiteDispo
+                </td>
+                <td>
+                        <form asp-controller="Panier" asp-action="Ajout" asp-route-ArticleId="@item.Id">
+                       <button type="submit" > Ajouter Au Panier  </button>
+                    </form>
+            </tr>
+            }
+                
+        </tbody>
+    </table>
+</div> *@
+
+
+

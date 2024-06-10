@@ -1,0 +1,15 @@
+﻿@model List<Panier>
+
+<h2>Ajout de l'article dans un panier :</h2>
+
+<form asp-controller="Article" asp-action="AjoutPost">
+    <input type="hidden" name="IdArticle" value="@ViewBag.IdArticle" /> <!-- Hidden field to hold IdArticle -->
+    Lequel ?
+    <select name="PanierId">
+        @foreach (var panier in Model)
+        {
+            <option value="@panier.Id">@panier.Name</option>
+        }
+    </select>
+    <button type="submit">Valider</button>
+</form>

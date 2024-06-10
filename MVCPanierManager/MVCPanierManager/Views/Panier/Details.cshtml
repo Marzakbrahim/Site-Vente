@@ -1,0 +1,52 @@
+﻿@model Panier
+<h2>
+    Les détails du panier :
+</h2>
+
+<div>
+    <label> L'id : @Model.Id  </label>
+</div>
+<div>
+    <label> Le nom : @Model.Name  </label>
+</div>
+
+<div>
+    <label> La liste des articles dans ce paner : </label>
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Nom
+                </th>
+                <th>
+                    Prix
+                </th>
+                <th>
+                    La quantité disponible
+                </th>
+                <th>
+                    La quantité Achetée
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(Article article in Model.Articles)
+            {
+                <tr>
+                    <td>
+                        @article.Nom
+                    </td>
+                    <td>
+                        @article.Prix
+                    </td>
+                    <td>
+                        @article.QuantiteDispo
+                    </td>
+                    <td>
+                        
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

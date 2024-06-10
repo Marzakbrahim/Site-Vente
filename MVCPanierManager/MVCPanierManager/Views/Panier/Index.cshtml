@@ -1,0 +1,56 @@
+﻿@model List<Panier>
+<h1 class="centered-heading">
+    Marché pour tout le monde.
+</h1>
+
+<div>
+    <a asp-controller="Panier" asp-action="Create"> <label> Créer un Panier </label> </a>
+</div>
+
+
+<div>  Liste des Paniers :   </div>
+<div>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Id de panier 
+                </th>
+                <th>
+                    Nom de panier
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            @foreach(var item in Model)
+            {
+                <tr>
+                <td>
+                    @item.Id
+                </td>
+                <td>
+                        <a asp-controller="Panier" asp-action="Details" asp-route-IdDetails="@item.Id">  
+                            @item.Name 
+                        </a>
+                </td>
+                <td>
+                        <a asp-controller="Panier" asp-action="Edit" asp-route-IdEdit="@item.Id"> 
+                            <img src="~/img/Edit_icon.svg" width="23" />
+                        </a>
+                </td>
+                <td>
+                        <a asp-controller="Panier" asp-action="Delete" asp-route-IdDelete="@item.Id"> 
+                            <img src="~/img/deleteIMAGE.png" width="23" /> 
+                        </a>
+                </td>
+                </tr>
+            }
+            
+        </tbody>
+    </table>
+</div>
+
+
+

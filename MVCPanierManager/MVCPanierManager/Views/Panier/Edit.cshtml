@@ -1,0 +1,13 @@
+﻿@model Panier
+<div>
+    <h1>
+        Modifier le nom du panier : 
+    </h1>
+</div>
+<div>
+    <form asp-controller="Panier" asp-action="EditPost" asp-route-IdEditPost="@Model.Id">
+        <label> le nouveau nom :  </label>
+        <input value=" @Model.Name" name="newNameInput"/>
+        <button> Valider </button>
+    </form>
+</div>

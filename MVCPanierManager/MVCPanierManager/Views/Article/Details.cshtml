@@ -1,0 +1,51 @@
+﻿@model Article 
+<h2>
+    Informations sur l'article :
+</h2>
+<div>
+    <label>
+        Le nom :
+    </label>
+    <label>
+        @Model.Nom
+    </label>
+</div>
+
+<div>
+    <label>
+        Le Prix :
+    </label>
+    <label>
+        @Model.Prix
+    </label>
+</div>
+
+<div>
+    <label>
+        La quantité disponible :
+    </label>
+    <label>
+        @Model.QuantiteDispo
+    </label>
+</div>
+
+<div>
+    <label>
+        Les noms des paniers dans lesquels il existe :
+    </label>
+    
+        @foreach(var item in Model.Paniers)
+        {
+            <label>
+            @item.Name
+             </label>
+        }
+   
+</div>
+<div>
+    Si vous voulez l'ajouter dans un panier cliquez 
+    <a asp-controller="Article" asp-action="Ajout" asp-route-IdArticle="@Model.Id" method="Get">
+        ici
+    </a>
+</div>
+
